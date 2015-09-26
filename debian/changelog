@@ -1,6 +1,7 @@
-kodi (2:14.0~git20141010-1) trusty; urgency=low
+kodi (2:15.1~git20150926-1) trusty; urgency=low
 
   * initial Kodi release
 
- -- wsnipex <wsnipex@kodi.tv>  Tue, 29 Jan 2013 20:13:05 -0500
+ -- SteamOS-Tools Signing Key <mdeguzis@gmail.com>  Fri, 25 Sep 2015 09:18:00 -0500
+
 
