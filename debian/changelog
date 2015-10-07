@@ -1,7 +1,8 @@
-kodi (2:15.1~git20150926-1) trusty; urgency=low
+kodi (15.1_201510007+git-1) brewmaster; urgency=low
 
-  * initial Kodi release
+  * Packaged for SteamOS Brewmaster
+  * Release tag: 15.1-Isengard
+  * See: https://github.com/xbmc/xbmc/releases
+  * Upstream source: https://github.com/xbmc/xbmc
 
- -- SteamOS-Tools Signing Key <mdeguzis@gmail.com>  Fri, 25 Sep 2015 09:18:00 -0500
-
-
+ -- SteamOS-Tools Signing Key <mdeguzis@gmail.com>  Wed, 07 Oct 2015 09:14:00 -0500
