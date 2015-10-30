@@ -1,8 +1,8 @@
-kodi (15.1_201510007+git-1) brewmaster; urgency=low
+kodi (15.2_20151030+git-1) brewmaster; urgency=low
 
   * Packaged for SteamOS Brewmaster
-  * Release tag: 15.1-Isengard
+  * Release tag: 15.2-Isengard
   * See: https://github.com/xbmc/xbmc/releases
   * Upstream source: https://github.com/xbmc/xbmc
 
- -- SteamOS-Tools Signing Key <mdeguzis@gmail.com>  Wed, 07 Oct 2015 09:14:00 -0500
+ -- SteamOS-Tools Signing Key <mdeguzis@gmail.com>  Fri, 30 Oct 2015 18:23:00 -0500
