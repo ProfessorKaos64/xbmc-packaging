@@ -40,7 +40,7 @@ Depends: kodi-bin (>= ${source:Version}),
          ${misc:Depends}
 Recommends: libvdpau1,
          libva-intel-vaapi-driver,
-         libva1 (= 1.7.3-2~bsos+1)
+         libva1
 Suggests: kodi-pvr-mythtv,
          kodi-pvr-vuplus,
          kodi-pvr-vdr-vnsi,
