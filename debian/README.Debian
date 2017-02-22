@@ -7,7 +7,3 @@ on Darwin. Furthermore, only i386, amd64, and armhf packages are built in Debian
 If you are able to build and run XBMC on other architectures and/or kernels,
 please provide patches to configure.in and any other files you may have modified
 to the Debian BTS.
-
-Note:
-
-WHen modifying the control file, make sure to also update var_info
